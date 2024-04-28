@@ -12,3 +12,7 @@ Um documento resumido que fornece uma visão geral das ferramentas de IA aplicá
 ### IA solutions for software development - MxM(Pronto).pptx
 
 Uma apresentação detalhada do PowerPoint que discute soluções específicas de IA adaptadas para melhorar os fluxos de trabalho de desenvolvimento de software na MXM sistemas.
+
+### ProjetoHackadev-CodeBusters
+
+Pasta que contém um projeto realizado pelo grupo Code Busters, liderado por Gustavo Scarcelli, que será utilizado como exemplo na apresentação de slides por conter o framework Angular e o backend em C# rodando integralmente.
